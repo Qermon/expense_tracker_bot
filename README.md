@@ -1,5 +1,5 @@
 # expense_tracker_bot
-Інструкція початку роботи
-Додати .env з TOKEN = ''
-pip install -r requirements.txt
-python main.py
+Інструкція початку роботи:
+1) Додати .env з TOKEN = ''
+2) pip install -r requirements.txt
+3) python main.py
